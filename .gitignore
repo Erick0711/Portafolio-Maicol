@@ -1,0 +1,6 @@
+ARCHIVOS IGNORADOS
+    main.scss
+    main.css.map
+    package.lock.json
+    package.json
+    README.md
